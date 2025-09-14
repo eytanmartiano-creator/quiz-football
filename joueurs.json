@@ -1,0 +1,15 @@
+
+[
+  {
+    "nom": "Kylian Mbappé",
+    "alias": ["Mbappé", "Kylian"],
+    "clubs": ["Monaco", "PSG", "Real Madrid"],
+    "difficulte": "facile"
+  },
+  {
+    "nom": "Karim Benzema",
+    "alias": ["Benzema", "Karim"],
+    "clubs": ["OL", "Real Madrid", "Al-Ittihad"],
+    "difficulte": "facile"
+  }
+]
